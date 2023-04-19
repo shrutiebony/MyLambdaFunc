@@ -11,8 +11,7 @@ Steps:
 The Spring Boot application uses Spring for AWS Lambda.
 
 
-- Run the Spring Boot application which will run on port 8080
-
+- Run the Spring Boot application which will be deployed on AWS Lambda
 ## Packaging 
 
 The Maven plugin maven-resources-plugin will copy the contents of the build directory into `/target/static/classes`. 
